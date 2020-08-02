@@ -1,0 +1,3 @@
+class SolrDevelopmentFilter < SolrFilter
+
+end

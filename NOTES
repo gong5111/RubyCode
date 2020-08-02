@@ -1,0 +1,15 @@
+Add region + suburb filters.
+Add development size filter.
+Add type filter.
+Add ready date filter.
+Add ability to sort columns.
+
+Integrate this:
+  http://jedwatson.github.io/react-select/
+
+How should items be sorted in the results?
+
+We'll need to handle URL routing so filters retain their values after page refresh/back buttons.
+
+
+
