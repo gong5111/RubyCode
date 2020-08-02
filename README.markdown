@@ -1,4 +1,4 @@
-# Untouched.co
+# Ecommerce Ruby module
 
 ## Seeding Data
 
